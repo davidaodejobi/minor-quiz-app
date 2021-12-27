@@ -156,8 +156,8 @@ The Message (MSG)''',
   ),
   Questions(
     title: 'Question 17',
-    questionText: 'What is your age?',
-    questionAnswer: 'I am 25',
+    questionText: 'Tell us about your self in less than 20 seconds?',
+    questionAnswer: '',
     questionColor: const Color(0xFFF4D26E),
   ),
   Questions(
